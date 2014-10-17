@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[yab:home|Door43 (yab)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-yab|d43-yab repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-yab/archive/master.zip|d43-yab.zip]]
+
+**Recent Changes**
+{{changes>ns = yab}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/yab|Ethnologue data]]
+
